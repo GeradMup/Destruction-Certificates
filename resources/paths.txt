@@ -1,2 +1,2 @@
-outputFolder|C:\\Users\\kgodyn\\Documents\\Personal\\Programming\\Destruction-Certificates\\outputs
-baseFolder|C:\\Users\\kgodyn\\Documents\\Personal\\Programming\\Destruction-Certificates\\
+outputFolder|C:\\Users\\gerry\\Documents\\Green Enviro\\Destruction Certificates\\outputs
+baseFolder|C:\\Users\\gerry\\Documents\\Green Enviro\\Destruction Certificates\\
