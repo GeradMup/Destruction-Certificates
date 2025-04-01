@@ -124,5 +124,8 @@ def specialLine(pdfObject, title, description, x, y):
 #---------------------------------------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    pdfGen()
+    inputValue = ""
 
+    while inputValue == "":   
+        pdfGen()
+        inputValue = input("Press Enter to Continue or Q to quit")
